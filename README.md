@@ -1,2 +1,3 @@
-# Soccer_Pitch_Detection
-The project includes Canny Edge Detection and Hough Transform for recognition of the pitch
+# Image Processing Project- IIITM Gwalior
+
+Application to detect and track soccer players and pitch using Open-CV Library
